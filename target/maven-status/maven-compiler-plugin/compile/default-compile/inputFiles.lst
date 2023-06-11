@@ -1,0 +1,13 @@
+/home/michal/IdeaProjects/BlitzIRC/src/main/java/org/schumiwildeprojects/kck1/cli/MainCommWindow.java
+/home/michal/IdeaProjects/BlitzIRC/src/main/java/org/schumiwildeprojects/kck1/cli/BasicLateInitWindow.java
+/home/michal/IdeaProjects/BlitzIRC/src/main/java/org/schumiwildeprojects/kck1/cli/states/MainCommState.java
+/home/michal/IdeaProjects/BlitzIRC/src/main/java/org/schumiwildeprojects/kck1/cli/IRCTerminal.java
+/home/michal/IdeaProjects/BlitzIRC/src/main/java/org/schumiwildeprojects/kck1/cli/LoginWindow.java
+/home/michal/IdeaProjects/BlitzIRC/src/main/java/org/schumiwildeprojects/kck1/backend/ConnectionState.java
+/home/michal/IdeaProjects/BlitzIRC/src/main/java/org/schumiwildeprojects/kck1/cli/states/ExitState.java
+/home/michal/IdeaProjects/BlitzIRC/src/main/java/org/schumiwildeprojects/kck1/backend/Main.java
+/home/michal/IdeaProjects/BlitzIRC/src/main/java/org/schumiwildeprojects/kck1/cli/states/State.java
+/home/michal/IdeaProjects/BlitzIRC/src/main/java/org/schumiwildeprojects/kck1/cli/states/ConnectingProgressState.java
+/home/michal/IdeaProjects/BlitzIRC/src/main/java/org/schumiwildeprojects/kck1/cli/states/LoginState.java
+/home/michal/IdeaProjects/BlitzIRC/src/main/java/org/schumiwildeprojects/kck1/cli/widgets/MessageInputTextBox.java
+/home/michal/IdeaProjects/BlitzIRC/src/main/java/org/schumiwildeprojects/kck1/cli/ConnectingProgressWindow.java
